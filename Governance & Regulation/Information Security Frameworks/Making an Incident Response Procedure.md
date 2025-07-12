@@ -1,0 +1,6 @@
+- **Define incident types**: Unauthorised access, malware infections, or data breaches.
+- **Define incident response roles and responsibilities**: Identify the stakeholders,  such as incident response team members, IT personnel, legal and compliance teams, and senior management.
+- **Detailed Steps**: Develop step-by-step procedures for responding to each type of incident,  including initial response steps, such as containing the incident and preserving evidence; analysis and investigation steps, such as identifying the root cause and assessing the impact; response and recovery steps, such as mitigating the incident, reporting and restoring normal operations.
+- **Report** the incident to management and document the incident response process for future reference.  
+- **Communicate** the incident response procedures.
+- **Review** and update the incident response procedures.

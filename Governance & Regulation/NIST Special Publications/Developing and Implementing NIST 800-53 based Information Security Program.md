@@ -1,0 +1,3 @@
+Among all the families, "**Program Management**" is one of the crucial control of the NIST 800-53 framework. Program Management control mandates establishing, implementing, and monitoring organisation-wide programs for information security and privacy while safeguarding the processed, stored, or transmitted through systems. To ensure program management, the following subcontrols are necessary to be implemented:
+
+![What are different program management controls](https://tryhackme-images.s3.amazonaws.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/43092cc2b85ee7ce4395ce6d7afd842f.png)

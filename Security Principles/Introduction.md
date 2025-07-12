@@ -1,0 +1,5 @@
+Security has become a buzzword; every company wants to claim its product or service is secure. But is it?
+
+Before we start discussing the different security principles, it is vital to know the adversary against whom we are protecting our assets. Are you trying to stop a toddler from accessing your laptop? Or are you trying to protect a laptop that contains technical designs worth millions of dollars? Using the exact protection mechanisms against toddlers and industrial espionage actors would be ludicrous. Consequently, knowing our adversary is a must so we can learn about their attacks and start implementing appropriate security controls.
+
+It is **impossible to achieve perfect security**; no solution is 100% secure. Therefore, we try to improve our security posture to make it more difficult for our adversaries to gain access.

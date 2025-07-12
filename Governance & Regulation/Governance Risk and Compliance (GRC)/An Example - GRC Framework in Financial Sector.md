@@ -1,0 +1,5 @@
+To fully understand each component of GRC, it is necessary to understand it with real-world examples and scenarios. In the ensuing section, we will see how the financial industry implements each component of the GRC framework:
+
+- **Governance-Related Activities:** Nominate the governance level executives, and make financial-related policies such as bank secrecy act, anti-money laundering policy, financial audit policies, financial reporting, crisis management, and many more.
+- **Risk Management Activities:** Identify potential risks, their possible outcomes, and countermeasures such as financial fraud risks, fraudulent transactions through cyber-attack, stolen credentials through phishing, fake ATM cards, etc.
+- **Compliance Activities:** Take measures to meet legal requirements and industry standards such as PCI DSS, GLBA, etc. Moreover, this also includes implementing correct methods like SSL/ TLS to avoid Man in the Middle (MITM) attacks, ensuring automatic patch management against unpatched software, creating awareness campaigns for users to protect them from phishing attacks, and many more.

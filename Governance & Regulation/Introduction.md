@@ -1,0 +1,6 @@
+Cyber security is a rapidly evolving landscape wherein malicious actors relentlessly endeavour to exploit vulnerabilities in highly-sensitive systems, often with the intent of causing severe damage, disruption, and stealing of sensitive corporate data. To combat this evolving threat, a comprehensive approach to **information security governance & regulation** is necessary. Such an approach requires establishing robust policies and guidelines and implementing rigorous monitoring and enforcement mechanisms to ensure compliance. By adopting a proactive and strategic stance towards cyber security, organisations can mitigate the risks posed by malicious actors and safeguard their sensitive systems against potentially catastrophic breaches.
+
+- Understanding the role and importance of governance and regulation in cyber security
+- Gain an understanding of relevant international laws, regulations, policies, standards & guidelines
+- Understanding Governance, Risk Management & Compliance (GRC) framework
+- Develop & raise own cyber security posture as per international standards, including ISO 27001, NIST 800-53, and many more
