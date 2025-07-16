@@ -1,3 +1,0 @@
-- [[Bell-LaPadula Model]]
-- [[The Biba Integrity Model]]
-- [[The Clark-Wilson Model]]
