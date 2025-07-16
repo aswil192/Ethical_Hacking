@@ -1,4 +1,0 @@
-- [[Security Operations Center (SOC)]]
-- [[Threat Intelligence]]
-- [[Digital Forensics and Incident Response (DFIR)]]
-- [[Malware Analysis]]
